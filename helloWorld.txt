@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 hello world s
 hello dunia
-=======
 hello world = hello dunia
->>>>>>> e303d3290e4cced3bfa80ad4b061901c3ef5a76c
